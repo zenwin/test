@@ -1,0 +1,5 @@
+E:\workshop\VisualStudio\2015\C#\solution\test\test\bin\x64\Debug\test.exe.config
+E:\workshop\VisualStudio\2015\C#\solution\test\test\bin\x64\Debug\test.exe
+E:\workshop\VisualStudio\2015\C#\solution\test\test\bin\x64\Debug\test.pdb
+E:\workshop\VisualStudio\2015\C#\solution\test\test\obj\x64\Debug\test.exe
+E:\workshop\VisualStudio\2015\C#\solution\test\test\obj\x64\Debug\test.pdb
